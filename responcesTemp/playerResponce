@@ -1,0 +1,580 @@
+{
+  tag: '#PPVGR0VV',
+  name: '0minutes Pavlo',
+  townHallLevel: 13,
+  townHallWeaponLevel: 3,
+  expLevel: 201,
+  trophies: 3336,
+  bestTrophies: 4190,
+  warStars: 1350,
+  attackWins: 7,
+  defenseWins: 4,
+  builderHallLevel: 9,
+  versusTrophies: 3351,
+  bestVersusTrophies: 3693,
+  versusBattleWins: 1789,
+  role: 'admin',
+  warPreference: 'in',
+  donations: 758,
+  donationsReceived: 77,
+  clanCapitalContributions: 131142,
+  clan: {
+    tag: '#2PPJ98CRY',
+    name: 'VANGUARD',
+    clanLevel: 9,
+    badgeUrls: {
+      small: 'https://api-assets.clashofclans.com/badges/70/LnCndSvuyuqG2kdXBjpJg6MG2DOq9P0fBdWGi7INUAg.png',
+      large: 'https://api-assets.clashofclans.com/badges/512/LnCndSvuyuqG2kdXBjpJg6MG2DOq9P0fBdWGi7INUAg.png',
+      medium: 'https://api-assets.clashofclans.com/badges/200/LnCndSvuyuqG2kdXBjpJg6MG2DOq9P0fBdWGi7INUAg.png'
+    }
+  },
+  league: {
+    id: 29000016,
+    name: 'Champion League III',
+    iconUrls: {
+      small: 'https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png',
+      tiny: 'https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png',
+      medium: 'https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png'
+    }
+  },
+  achievements: [
+    {
+      name: 'Bigger Coffers',
+      stars: 3,
+      value: 14,
+      target: 10,
+      info: 'Upgrade a Gold Storage to level 10',
+      completionInfo: 'Highest Gold Storage level: 14',
+      village: 'home'
+    },
+    {
+      name: 'Get those Goblins!',
+      stars: 3,
+      value: 206,
+      target: 150,
+      info: 'Win 150 Stars on the Campaign Map',
+      completionInfo: 'Stars in Campaign Map: 206',
+      village: 'home'
+    },
+    {
+      name: 'Bigger & Better',
+      stars: 3,
+      value: 13,
+      target: 8,
+      info: 'Upgrade Town Hall to level 8',
+      completionInfo: 'Current Town Hall level: 13',
+      village: 'home'
+    },
+    {
+      name: 'Nice and Tidy',
+      stars: 3,
+      value: 7716,
+      target: 500,
+      info: 'Remove 500 obstacles (trees, rocks, bushes)',
+      completionInfo: 'Total obstacles removed: 7716',
+      village: 'home'
+    },
+    {
+      name: 'Discover New Troops',
+      stars: 3,
+      value: 1,
+      target: 1,
+      info: 'Unlock Dragon in the Barracks',
+      completionInfo: null,
+      village: 'home'
+    },
+    {
+      name: 'Gold Grab',
+      stars: 3,
+      value: 1786324987,
+      target: 100000000,
+      info: 'Steal 100000000 gold',
+      completionInfo: 'Total Gold looted: 1786324987',
+      village: 'home'
+    },
+    {
+      name: 'Elixir Escapade',
+      stars: 3,
+      value: 1936222653,
+      target: 100000000,
+      info: 'Steal 100000000 elixir',
+      completionInfo: 'Total Elixir looted: 1936222653',
+      village: 'home'
+    },
+    {
+      name: 'Sweet Victory!',
+      stars: 3,
+      value: 4190,
+      target: 1250,
+      info: 'Achieve a total of 1250 trophies in Multiplayer battles',
+      completionInfo: 'Trophy record: 4190',
+      village: 'home'
+    },
+    {
+      name: 'Empire Builder',
+      stars: 3,
+      value: 9,
+      target: 4,
+      info: 'Upgrade Clan Castle to level 4',
+      completionInfo: 'Current Clan Castle level: 9',
+      village: 'home'
+    },
+    {
+      name: 'Wall Buster',
+      stars: 3,
+      value: 91907,
+      target: 2000,
+      info: 'Destroy 2000 Walls in Multiplayer battles',
+      completionInfo: 'Total walls destroyed: 91907',
+      village: 'home'
+    },
+    {
+      name: 'Humiliator',
+      stars: 3,
+      value: 5340,
+      target: 2000,
+      info: 'Destroy 2000 Town Halls in Multiplayer battles',
+      completionInfo: 'Total Town Halls destroyed: 5340',
+      village: 'home'
+    },
+    {
+      name: 'Union Buster',
+      stars: 3,
+      value: 23407,
+      target: 2500,
+      info: "Destroy 2500 Builder's Huts in Multiplayer battles",
+      completionInfo: "Total Builder's Huts destroyed: 23407",
+      village: 'home'
+    },
+    {
+      name: 'Conqueror',
+      stars: 3,
+      value: 6656,
+      target: 5000,
+      info: 'Win 5000 Multiplayer battles',
+      completionInfo: 'Total multiplayer battles won: 6656',
+      village: 'home'
+    },
+    {
+      name: 'Unbreakable',
+      stars: 3,
+      value: 5271,
+      target: 5000,
+      info: 'Successfully defend against 5000 attacks',
+      completionInfo: 'Total defenses won: 5271',
+      village: 'home'
+    },
+    {
+      name: 'Friend in Need',
+      stars: 3,
+      value: 120189,
+      target: 25000,
+      info: 'Donate 25000 capacity worth of reinforcements to Clanmates',
+      completionInfo: 'Total capacity donated: 120189',
+      village: 'home'
+    },
+    {
+      name: 'Mortar Mauler',
+      stars: 3,
+      value: 21307,
+      target: 5000,
+      info: 'Destroy 5000 Mortars in Multiplayer battles',
+      completionInfo: 'Total Mortars destroyed: 21307',
+      village: 'home'
+    },
+    {
+      name: 'Heroic Heist',
+      stars: 3,
+      value: 11458196,
+      target: 1000000,
+      info: 'Steal 1000000 Dark Elixir',
+      completionInfo: 'Total Dark Elixir looted: 11458196',
+      village: 'home'
+    },
+    {
+      name: 'League All-Star',
+      stars: 3,
+      value: 19,
+      target: 1,
+      info: 'Become a Champion!',
+      completionInfo: null,
+      village: 'home'
+    },
+    {
+      name: 'X-Bow Exterminator',
+      stars: 3,
+      value: 11664,
+      target: 2500,
+      info: 'Destroy 2500 X-Bows in Multiplayer battles',
+      completionInfo: 'Total X-Bows destroyed: 11664',
+      village: 'home'
+    },
+    {
+      name: 'Firefighter',
+      stars: 3,
+      value: 5323,
+      target: 5000,
+      info: 'Destroy 5000 Inferno Towers in Multiplayer battles',
+      completionInfo: 'Total Inferno Towers destroyed: 5323',
+      village: 'home'
+    },
+    {
+      name: 'War Hero',
+      stars: 3,
+      value: 1350,
+      target: 1000,
+      info: 'Score 1000 Stars for your clan in Clan War battles',
+      completionInfo: 'Total Stars scored for clan in Clan War battles: 1350',
+      village: 'home'
+    },
+    {
+      name: 'Clan War Wealth',
+      stars: 3,
+      value: 842380512,
+      target: 100000000,
+      info: 'Collect 100000000 gold from the Clan Castle',
+      completionInfo: 'Total gold collected in Clan War bonuses: 842380512',
+      village: 'home'
+    },
+    {
+      name: 'Anti-Artillery',
+      stars: 2,
+      value: 1563,
+      target: 2000,
+      info: 'Destroy 2000 Eagle Artilleries in Multiplayer battles',
+      completionInfo: 'Total Eagle Artilleries destroyed: 1563',
+      village: 'home'
+    },
+    {
+      name: 'Sharing is caring',
+      stars: 1,
+      value: 1216,
+      target: 2000,
+      info: 'Donate 2000 spell storage capacity worth of spells',
+      completionInfo: 'Total spell capacity donated: 1216',
+      village: 'home'
+    },
+    {
+      name: 'Keep Your Account Safe!',
+      stars: 0,
+      value: 0,
+      target: 1,
+      info: 'Protect your village by connecting to a social network',
+      completionInfo: 'Completed!',
+      village: 'home'
+    },
+    {
+      name: 'Master Engineering',
+      stars: 3,
+      value: 9,
+      target: 8,
+      info: 'Upgrade Builder Hall to level 8',
+      completionInfo: 'Current Builder Hall level: 9',
+      village: 'builderBase'
+    },
+    {
+      name: 'Next Generation Model',
+      stars: 3,
+      value: 1,
+      target: 1,
+      info: 'Unlock Super P.E.K.K.A in the Builder Barracks',
+      completionInfo: null,
+      village: 'builderBase'
+    },
+    {
+      name: 'Un-Build It',
+      stars: 3,
+      value: 2191,
+      target: 2000,
+      info: 'Destroy 2000 Builder Halls in Versus battles',
+      completionInfo: 'Total Builder Halls destroyed: 2191',
+      village: 'builderBase'
+    },
+    {
+      name: 'Champion Builder',
+      stars: 3,
+      value: 3693,
+      target: 3000,
+      info: 'Achieve a total of 3000 trophies in Versus battles',
+      completionInfo: 'Versus Trophy record: 3693',
+      village: 'builderBase'
+    },
+    {
+      name: 'High Gear',
+      stars: 3,
+      value: 3,
+      target: 3,
+      info: 'Gear Up 3 buildings using the Master Builder',
+      completionInfo: 'Total buildings geared up: 3',
+      village: 'builderBase'
+    },
+    {
+      name: 'Hidden Treasures',
+      stars: 3,
+      value: 1,
+      target: 1,
+      info: 'Rebuild Battle Machine',
+      completionInfo: null,
+      village: 'builderBase'
+    },
+    {
+      name: 'Games Champion',
+      stars: 1,
+      value: 45705,
+      target: 50000,
+      info: 'Earn 50000 points in Clan Games',
+      completionInfo: 'Total Clan Games points: 45705',
+      village: 'home'
+    },
+    {
+      name: 'Dragon Slayer',
+      stars: 0,
+      value: 0,
+      target: 1,
+      info: 'Slay the Giant Dragon on the Campaign Map',
+      completionInfo: null,
+      village: 'home'
+    },
+    {
+      name: 'War League Legend',
+      stars: 2,
+      value: 207,
+      target: 250,
+      info: 'Score 250 Stars for your clan in War League battles',
+      completionInfo: 'Total Stars scored for clan in War League battles: 207',
+      village: 'home'
+    },
+    {
+      name: 'Keep Your Account Safe!',
+      stars: 0,
+      value: 0,
+      target: 1,
+      info: 'Connect your account to Supercell ID for safe keeping.',
+      completionInfo: 'Completed!',
+      village: 'home'
+    },
+    {
+      name: 'Well Seasoned',
+      stars: 2,
+      value: 19580,
+      target: 50000,
+      info: 'Earn 50000 points in Season Challenges',
+      completionInfo: 'Total Season Challenges points: 19580',
+      village: 'home'
+    },
+    {
+      name: 'Shattered and Scattered',
+      stars: 1,
+      value: 78,
+      target: 400,
+      info: 'Destroy 400 Scattershots in Multiplayer battles',
+      completionInfo: 'Total Scattershots destroyed: 78',
+      village: 'home'
+    },
+    {
+      name: 'Not So Easy This Time',
+      stars: 1,
+      value: 63,
+      target: 100,
+      info: 'Destroy 100 weaponized Town Halls in Multiplayer battles',
+      completionInfo: 'Weaponized Town Halls destroyed: 63',
+      village: 'home'
+    },
+    {
+      name: 'Bust This!',
+      stars: 0,
+      value: 4,
+      target: 25,
+      info: "Destroy 25 weaponized Builder's Huts in Multiplayer battles",
+      completionInfo: "Total weaponized Builder's Huts destroyed: 4",
+      village: 'home'
+    },
+    {
+      name: 'Superb Work',
+      stars: 0,
+      value: 0,
+      target: 20,
+      info: 'Boost a Super Troop 20 times',
+      completionInfo: 'Total times Super Troops boosted: 0',
+      village: 'home'
+    },
+    {
+      name: 'Siege Sharer',
+      stars: 0,
+      value: 36,
+      target: 50,
+      info: 'Donate 50 Siege Machines',
+      completionInfo: 'Total Siege Machines donated: 36',
+      village: 'home'
+    },
+    {
+      name: 'Aggressive Capitalism',
+      stars: 1,
+      value: 93305,
+      target: 250000,
+      info: 'Loot 250000 Capital Gold during Raid attacks',
+      completionInfo: 'Total Capital Gold looted: 93305',
+      village: 'home'
+    },
+    {
+      name: 'Most Valuable Clanmate',
+      stars: 1,
+      value: 131142,
+      target: 500000,
+      info: 'Contribute 500000 Capital Gold to upgrades in the Clan Capital',
+      completionInfo: 'Total Capital Gold contributed: 131142',
+      village: 'home'
+    },
+    {
+      name: 'Counterspell',
+      stars: 0,
+      value: 0,
+      target: 40,
+      info: 'Destroy 40 Spell Towers in Multiplayer Battles',
+      completionInfo: 'Total Spell Towers Destroyed: 0',
+      village: 'home'
+    },
+    {
+      name: 'Monolith Masher',
+      stars: 0,
+      value: 0,
+      target: 20,
+      info: 'Destroy 20 Monoliths in Multiplayer Battles',
+      completionInfo: 'Total Monoliths Destroyed: 0',
+      village: 'home'
+    },
+    {
+      name: 'Ungrateful Child',
+      stars: 0,
+      value: 0,
+      target: 1,
+      info: 'Defeat M.O.M.M.A on the Campaign Map',
+      completionInfo: null,
+      village: 'home'
+    }
+  ],
+  playerHouse: { elements: [ [Object], [Object], [Object], [Object] ] },
+  versusBattleWinCount: 1789,
+  labels: [
+    { id: 57000000, name: 'Clan Wars', iconUrls: [Object] },
+    { id: 57000008, name: 'Active Donator', iconUrls: [Object] },
+    { id: 57000015, name: 'Veteran', iconUrls: [Object] }
+  ],
+  troops: [
+    { name: 'Barbarian', level: 9, maxLevel: 11, village: 'home' },
+    { name: 'Archer', level: 9, maxLevel: 11, village: 'home' },
+    { name: 'Goblin', level: 6, maxLevel: 8, village: 'home' },
+    { name: 'Giant', level: 10, maxLevel: 11, village: 'home' },
+    { name: 'Wall Breaker', level: 6, maxLevel: 11, village: 'home' },
+    { name: 'Balloon', level: 9, maxLevel: 10, village: 'home' },
+    { name: 'Wizard', level: 8, maxLevel: 11, village: 'home' },
+    { name: 'Healer', level: 5, maxLevel: 7, village: 'home' },
+    { name: 'Dragon', level: 7, maxLevel: 9, village: 'home' },
+    { name: 'P.E.K.K.A', level: 8, maxLevel: 9, village: 'home' },
+    { name: 'Minion', level: 5, maxLevel: 11, village: 'home' },
+    { name: 'Hog Rider', level: 7, maxLevel: 11, village: 'home' },
+    { name: 'Valkyrie', level: 7, maxLevel: 9, village: 'home' },
+    { name: 'Golem', level: 9, maxLevel: 12, village: 'home' },
+    { name: 'Witch', level: 5, maxLevel: 6, village: 'home' },
+    { name: 'Lava Hound', level: 3, maxLevel: 6, village: 'home' },
+    { name: 'Bowler', level: 4, maxLevel: 6, village: 'home' },
+    { name: 'Baby Dragon', level: 4, maxLevel: 8, village: 'home' },
+    { name: 'Miner', level: 6, maxLevel: 9, village: 'home' },
+    { name: 'Super Barbarian', level: 1, maxLevel: 4, village: 'home' },
+    { name: 'Super Archer', level: 1, maxLevel: 4, village: 'home' },
+    {
+      name: 'Super Wall Breaker',
+      level: 1,
+      maxLevel: 5,
+      village: 'home'
+    },
+    { name: 'Super Giant', level: 1, maxLevel: 3, village: 'home' },
+    {
+      name: 'Raged Barbarian',
+      level: 16,
+      maxLevel: 18,
+      village: 'builderBase'
+    },
+    {
+      name: 'Sneaky Archer',
+      level: 13,
+      maxLevel: 18,
+      village: 'builderBase'
+    },
+    {
+      name: 'Beta Minion',
+      level: 18,
+      maxLevel: 18,
+      village: 'builderBase'
+    },
+    {
+      name: 'Boxer Giant',
+      level: 18,
+      maxLevel: 18,
+      village: 'builderBase'
+    },
+    { name: 'Bomber', level: 13, maxLevel: 18, village: 'builderBase' },
+    {
+      name: 'Super P.E.K.K.A',
+      level: 18,
+      maxLevel: 18,
+      village: 'builderBase'
+    },
+    {
+      name: 'Cannon Cart',
+      level: 18,
+      maxLevel: 18,
+      village: 'builderBase'
+    },
+    {
+      name: 'Drop Ship',
+      level: 15,
+      maxLevel: 18,
+      village: 'builderBase'
+    },
+    {
+      name: 'Baby Dragon',
+      level: 18,
+      maxLevel: 18,
+      village: 'builderBase'
+    },
+    {
+      name: 'Night Witch',
+      level: 18,
+      maxLevel: 18,
+      village: 'builderBase'
+    },
+    { name: 'Wall Wrecker', level: 3, maxLevel: 4, village: 'home' },
+    { name: 'Battle Blimp', level: 2, maxLevel: 4, village: 'home' },
+    { name: 'Yeti', level: 1, maxLevel: 4, village: 'home' },
+    { name: 'Sneaky Goblin', level: 1, maxLevel: 2, village: 'home' },
+    { name: 'Super Miner', level: 1, maxLevel: 3, village: 'home' },
+    { name: 'Rocket Balloon', level: 1, maxLevel: 3, village: 'home' },
+    { name: 'Ice Golem', level: 3, maxLevel: 6, village: 'home' },
+    { name: 'Electro Dragon', level: 4, maxLevel: 6, village: 'home' },
+    { name: 'Stone Slammer', level: 3, maxLevel: 4, village: 'home' },
+    { name: 'Inferno Dragon', level: 1, maxLevel: 3, village: 'home' },
+    { name: 'Super Valkyrie', level: 1, maxLevel: 3, village: 'home' },
+    { name: 'Super Witch', level: 1, maxLevel: 2, village: 'home' },
+    {
+      name: 'Hog Glider',
+      level: 6,
+      maxLevel: 18,
+      village: 'builderBase'
+    },
+    { name: 'Siege Barracks', level: 2, maxLevel: 4, village: 'home' },
+    { name: 'Ice Hound', level: 1, maxLevel: 2, village: 'home' },
+    { name: 'Super Bowler', level: 1, maxLevel: 3, village: 'home' },
+    { name: 'Super Dragon', level: 1, maxLevel: 3, village: 'home' },
+    { name: 'Headhunter', level: 1, maxLevel: 3, village: 'home' },
+    { name: 'Super Wizard', level: 1, maxLevel: 3, village: 'home' },
+    { name: 'Super Minion', level: 1, maxLevel: 4, village: 'home' },
+    { name: 'Bat Spell', level: 3, maxLevel: 6, village: 'home' },
+    {
+      name: 'Invisibility Spell',
+      level: 1,
+      maxLevel: 4,
+      village: 'home'
+    }
+  ]
+}
