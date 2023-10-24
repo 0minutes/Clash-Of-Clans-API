@@ -127,4 +127,4 @@ client.on('ready', async () => {
     console.log(`${client.user.username} is on`);
 });
 
-client.login(`MTA3MzI4OTgzODA2Mjc1MTc0NQ.GCJjGH.nIZ-BE5e3JCPWhcVOxfnBeTkByUgwrZK3TOFF0`);
+client.login(`TOKEN`);
