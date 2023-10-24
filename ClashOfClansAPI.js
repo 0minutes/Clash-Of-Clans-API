@@ -51,7 +51,7 @@ function ClanInfo(tag, callback){
             url: `https://api.clashofclans.com/v1/clans/%23${tag}`,
             headers: 
                 {
-                    "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjI4OWRmOTA5LTA5MTMtNGZjMi1iN2Q1LTAxYmJjZWYxMjYxNyIsImlhdCI6MTY4MDU2NDE4MSwic3ViIjoiZGV2ZWxvcGVyL2ZmYTExM2ZhLWVkNzItMjkxNS05NjJkLTNlZjlhMjQ0NDZkYyIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjkyLjIxLjIxNS4xNTQiXSwidHlwZSI6ImNsaWVudCJ9XX0.wS2dJodP6nq9UXTumkNE74Q0R1lC4D6Cq5T9Stbyo53hYrUSpYh40lVTpCWk5V3qbp5hwd3scpb9uW2xYNzxdw"
+                    "Authorization": "AUTH"
                 }
         }, 
         (err, res, body) => 
